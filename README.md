@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @phend0
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Python
-- 📫 How to reach me peytonusmc@gmail.com
+- 📫 How to reach me peytonusmc2@gmail.com
 
 <!---
 phend0/phend0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
